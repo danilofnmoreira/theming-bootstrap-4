@@ -1,0 +1,14 @@
+$font-family-sans-serif: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+$theme-colors: (
+  "primary":   #FF8C00,
+  "secondary": #003049,
+  "success":   #8fa998,
+  "danger":    #d62828,
+  "warning":   #FCBF49,
+  "info":      #696D7D
+);
+
+$body-color: #29292E;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
